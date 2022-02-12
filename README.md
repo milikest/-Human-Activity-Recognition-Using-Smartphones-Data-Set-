@@ -1,4 +1,4 @@
-# -Human-Activity-Recognition-Using-Smartphones-Data-Set-
+# Cleaning and Creating a Big Dataset from Human Activity Recognition Using Smartphones Data Set
 ------------------------------------------------------------------------------------------------------------------------------
 In this script we collected the data from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
