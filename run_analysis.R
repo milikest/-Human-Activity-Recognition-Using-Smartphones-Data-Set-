@@ -154,14 +154,4 @@ mean_of_subject_on_activity <- function(subject, activity){
 
 
 
-
-
-
-
-
-
-
-
-
-
   
