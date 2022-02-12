@@ -1,6 +1,6 @@
 # Cleaning and Creating a Big Dataset from Human Activity Recognition Using Smartphones Data Set
 ------------------------------------------------------------------------------------------------------------------------------
-In this script we collected the data from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+In this script I collected the data from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 In this data set 30 volunteers are asked to perform six different activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz were captured.
 
@@ -10,7 +10,7 @@ Data source contains training, test, features, subject data sets, readme and som
 
 In data source training, test sets and features, subjects are seperated in different files.  
 
-In a nutshell we merged all data into one big data frame and created grouping function for mean values of a subject on an activity. 
+In a nutshell I merged all data into one big data frame and created grouping function for mean values of a subject on an activity. 
 
 -------------------------------------------------------------------------------------------------------------------------------
 
